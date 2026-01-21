@@ -1,4 +1,4 @@
-package com.example.studentmanager.model;
+package com.example.lab3.model;
 
 import jakarta.persistence.*;
 
