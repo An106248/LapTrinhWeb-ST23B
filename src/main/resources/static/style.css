@@ -1,0 +1,19 @@
+/* Tùy chỉnh nhỏ (Bootstrap làm chủ đạo) */
+body {
+  min-height: 100vh;
+}
+
+.table td, .table th {
+  vertical-align: middle;
+}
+
+.card {
+  transition: box-shadow 0.2s ease;
+}
+.card:hover {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.08) !important;
+}
+
+.btn-sm {
+  min-width: 60px;
+}
